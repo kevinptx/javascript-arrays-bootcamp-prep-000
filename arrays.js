@@ -16,7 +16,7 @@ function addElementToEndOfArray(array, element){
 }
 
 function destructivelyAddElementToEndOfArray(array, element){
-  
+
 }
 
 function removeElementFromEndOfArray(array){
@@ -24,4 +24,4 @@ function removeElementFromEndOfArray(array){
   return array;
 }
 
-function 
+function
