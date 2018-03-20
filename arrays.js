@@ -10,7 +10,18 @@ function destructivelyAddElementToBeginningOfArray(array, element){
   return array;
 }
 
+function addElementToEndOfArray(array, element){
+  var newArray = [...array, element]
+  return newArray;
+}
+
+function destructivelyAddElementToEndOfArray(array, element){
+  
+}
+
 function removeElementFromEndOfArray(array){
   array.slice(0, array.length-1)
   return array;
 }
+
+function 
