@@ -24,3 +24,7 @@ function removeElementFromEndOfArray(array){
   array.slice(0, array.length-1)
   return array;
 }
+
+function accessElementInArray(array, index){
+  return array[index];
+}
