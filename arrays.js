@@ -40,6 +40,6 @@ function removeElementFromBeginningOfArray(array){
 }
 
 funciton destructivelyRemoveElementFromEndOfArray(array){
-  array = array.pop()
+  let array = array.pop()
   return array;
 }
